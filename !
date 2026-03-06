@@ -1,0 +1,13 @@
+Revert "Premier commit : ajout du README"
+:x
+This reverts commit 6496d9cdad62043238fc2baaf67b30338e469461.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    README.md
+#
